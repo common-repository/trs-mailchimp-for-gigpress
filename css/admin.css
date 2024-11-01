@@ -1,0 +1,13 @@
+.ju_warp {background: #ffffff;padding:10px 15px;margin:15px 15px 15px 0px;}
+.ju_warp:hover {box-shadow:0px 0px 6px #afafaf;}
+.ju_title {font-size:20px;font-weight:bold;padding:6px 0px;}
+input [type=text]{width: 300px;border:1px solid #49b3de;padding:6px 8px;}
+.ju_radio {float:left;width:89px;padding:7px 0px;}
+.ju_clear {width:100%;display:-webkit-box;}
+.custom_editor_tinymice {width: 70%;padding: 0% 1%; margin-top: 15px;float: left;}
+.custom_editor_button {width: 24%;background: #fff;float: left;padding: 1%; margin: 2% 1%;margin-top: 22px;}
+.ju-note {text-align: justify;margin-bottom: 12px;}
+.ju_message_note {background: #ffffff;padding: 10px 15px;margin: 1% 1% 0% 1%;color: #003f58;font-size: 14px;box-shadow: 0px 0px 10px #003f58;}
+.ju_row {display: flex;}
+.ju_lable {width: 118px;float: left;padding: 16px 8px 16px 0px;text-align: right;}
+.ju_feild {padding: 10px;}
